@@ -27,7 +27,7 @@ int main() {
         
     } // for
     
-    runningTimeOfAlgorithms(arr); // returns num insertion sort shifts
+    runningTimeOfAlgorithms(arr);
     
     return 0;
 
