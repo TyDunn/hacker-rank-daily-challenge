@@ -1,6 +1,6 @@
 // Insertion Sort Advanced Analysis
 // Day #15
-// Sunday May 14, 2017
+// Sunday, May 14, 2017
 // https://www.hackerrank.com/challenges/insertion-sort
 
 #include <vector>
