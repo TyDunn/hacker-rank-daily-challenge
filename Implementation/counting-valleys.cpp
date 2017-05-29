@@ -1,13 +1,12 @@
-#include <string>
-#include <iostream>
-
-using namespace std;
-
-
 // Counting Valleys
 // Day #29
 // Sunday, May 28, 2017
 // https://www.hackerrank.com/challenges/counting-valleys
+
+#include <string>
+#include <iostream>
+
+using namespace std;
 
 int main() {
     
