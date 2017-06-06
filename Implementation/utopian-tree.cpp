@@ -1,6 +1,6 @@
 // Utopian Tree
 // Day #37
-// Sunday, June 4, 2017
+// Monday, June 5, 2017
 // https://www.hackerrank.com/challenges/utopian-tree
 
 #include <cmath>
