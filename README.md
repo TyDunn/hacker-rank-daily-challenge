@@ -8,6 +8,8 @@ End Date: Friday, September 1, 2017
 
 Language: C++
 
+Missed Dates:
+
 Every challenge will be its own cpp file and start with the following format:
 
 // [Challenge Title]
