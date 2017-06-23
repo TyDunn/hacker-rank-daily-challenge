@@ -3,7 +3,6 @@
 // Thursday, June 22, 2017
 // https://www.hackerrank.com/challenges/jumping-on-the-clouds
 
-
 #include <vector>
 #include <iostream>
 
