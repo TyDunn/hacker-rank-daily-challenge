@@ -3,7 +3,6 @@
 // Monday, July 24, 2017
 // https://www.hackerrank.com/challenges/caesar-cipher-1
 
-
 #include <string>
 #include <iostream>
 
