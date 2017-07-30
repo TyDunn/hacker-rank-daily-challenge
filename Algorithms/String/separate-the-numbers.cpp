@@ -1,11 +1,12 @@
-#include <string>
-#include <iostream>
-
-using namespace std;
 // Separate the Numbers
 // Day #80
 // Saturday, July 22, 2017
 // https://www.hackerrank.com/challenges/separate-the-numbers
+
+#include <string>
+#include <iostream>
+
+using namespace std;
 
 
 int main() {
