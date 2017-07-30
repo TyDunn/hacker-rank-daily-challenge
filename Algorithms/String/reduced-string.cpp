@@ -1,5 +1,5 @@
 // Super Reduced String
-// Day #73
+// Day #79
 // Friday, July 21, 2017
 // https://www.hackerrank.com/challenges/reduced-string
 
