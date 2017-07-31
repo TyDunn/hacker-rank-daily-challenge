@@ -1,6 +1,6 @@
 // Funny String
 // Day #81
-// Sunday, July 23, 2017
+// Sunday, July 30, 2017
 // https://www.hackerrank.com/challenges/funny-string
 
 
