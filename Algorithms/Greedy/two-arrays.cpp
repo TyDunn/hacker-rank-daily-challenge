@@ -1,6 +1,6 @@
 // Permuting Two Arrays
 // Day #102
-// Monday, September 5, 2017
+// Tuesday, September 5, 2017
 // https://www.hackerrank.com/challenges/two-arrays
 
 #include <vector>
