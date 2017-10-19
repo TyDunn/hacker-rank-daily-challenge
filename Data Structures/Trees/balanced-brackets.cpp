@@ -1,6 +1,6 @@
 // Balanced Brackets
 // Day #139
-// Tuesday, October 18, 2017
+// Wednesday, October 18, 2017
 // https://www.hackerrank.com/challenges/balanced-brackets
 
 
